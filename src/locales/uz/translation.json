@@ -1,0 +1,68 @@
+{
+  "basket": "Savat",
+  "register": "Ro'yxatdan o'tish",
+  "order": "Buyurtma berish",
+  "more": "Ko‘proq →",
+  "emptyBasket": "Savat bo‘sh.",
+  "features": [
+    {
+      "title": "Premium materiallar",
+      "text": "Mukammal tuzilishga ega, ehtiyotkorlik bilan tanlangan matolar uzoq muddatli qulaylik va chiroyli ko‘rinishni taʼminlaydi."
+    },
+    {
+      "title": "Zamonaviy dizayn",
+      "text": "Yengil rüshlar va kontrast qirralar kabi dekor elementlari mahsulotni esda qolarli va nafis qiladi."
+    },
+    {
+      "title": "Tez yetkazib berish",
+      "text": "Buyurtmalar tezkor ko‘rib chiqiladi va ishonchli logistika orqali mahsulotlar qisqa muddatda yetkaziladi."
+    },
+    {
+      "title": "Eng yaxshi materiallar",
+      "text": "Yumshoq paxta yoki boshqa yuqori sifatli materiallar foydalaniladi, bu esa qulaylik va mustahkamlikni taʼminlaydi."
+    },
+    {
+      "title": "Keng assortiment",
+      "text": "To‘qimachilik mahsulotlari bilan bir qatorda aksessuarlar va uy uchun mahsulotlar ham mavjud."
+    },
+    {
+      "title": "Mahalliy yo‘nalish",
+      "text": "O‘zbekiston (Toshkent) bozorida faoliyat olib borilishi xaridlar, yetkazib berish va mijozlar bilan aloqani osonlashtiradi."
+    }
+  ],
+"story": {
+    "h3": "Baxtli xaridorlar",
+    "h2": "Har tun — mehmonxonadagidek",
+    "text": "Yotoq qanday qilib uyqu sifatini o‘zgartirishi ajablanarli.",
+    "button": "Uyga qulaylik va uslub qo‘shing"
+  },
+  "sidebar": {
+    "home": "Bosh sahifa",
+    "catalog": "Katalog",
+    "basket": "Savatcha",
+    "account": "Hisob"
+  },
+  "footer": {
+    "find": "Mukammal yotoqni toping",
+    "contact": "Biz bilan bog‘laning",
+    "delivery": "Yetkazib berish",
+    "return": "Qaytarish va almashtirish"
+    },
+    "login": {
+  "title": "Kirish / Ro'yxatdan o'tish",
+  "name": "Ism",
+  "surname": "Familiya",
+  "phone": "Telefon raqami",
+  "email": "Email (ixtiyoriy)",
+  "submit": "Yuborish",
+  "alert": "Forma yuborildi",
+  "errors": {
+    "name": "Ism majburiy",
+    "surname": "Familiya majburiy",
+    "phone": "Telefon raqami majburiy"
+  }
+}
+
+
+
+}

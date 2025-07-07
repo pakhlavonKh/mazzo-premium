@@ -1,0 +1,69 @@
+{
+  "basket": "Basket",
+  "register": "Register",
+  "order": "Order",
+  "more": "More →",
+  "emptyBasket": "Basket is empty.",
+  "features": [
+    {
+      "title": "Premium Materials",
+      "text": "Carefully selected fabrics with flawless texture and high-quality weaving provide comfort, durability, and long-lasting beauty."
+    },
+    {
+      "title": "Stylish Design",
+      "text": "Elegant decorative elements like subtle ruffles and contrast trim make each item memorable and refined."
+    },
+    {
+      "title": "Fast Delivery",
+      "text": "Quick order processing and reliable logistics ensure you receive your purchases without delay and with full convenience."
+    },
+    {
+      "title": "Top-Quality Materials",
+      "text": "Soft cotton or other high-grade fabrics are used, offering exceptional comfort and durability."
+    },
+    {
+      "title": "Wide Assortment",
+      "text": "Includes both textile solutions and accessories or home products."
+    },
+    {
+      "title": "Local Expertise",
+      "text": "Active presence in the Uzbekistan (Tashkent) market ensures smooth purchasing, delivery, and customer feedback."
+    }
+  ],
+  "story": {
+    "h3": "Happy Customers",
+    "h2": "Every night feels like a hotel stay",
+    "text": "It's amazing how bedding can improve the quality of sleep.",
+    "button": "Add comfort and style to your home"
+  },
+  "sidebar": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "basket": "Basket",
+    "account": "Account"
+  },
+  "footer": {
+    "find": "Find the perfect bedding",
+    "contact": "Contact us",
+    "delivery": "Delivery",
+    "return": "Returns and exchanges"
+    },
+    "login": {
+  "title": "Login / Register",
+  "name": "Name",
+  "surname": "Surname",
+  "phone": "Phone",
+  "email": "Email (optional)",
+  "submit": "Submit",
+  "alert": "Form submitted",
+  "errors": {
+    "name": "Name is required",
+    "surname": "Surname is required",
+    "phone": "Phone number is required"
+  }
+}
+
+
+
+
+}

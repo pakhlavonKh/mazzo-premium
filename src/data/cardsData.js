@@ -1,4 +1,4 @@
-const homesData = [
+const cardsData = [
   { id: 1, src: 'sheet-1.jpg', name: 'Beautiful Family House', rooms: 5, price: '$1,200,000' },
   { id: 2, src: 'sheet-2.jpg', name: 'Modern Glass Villa', rooms: 6, price: '$2,750,000' },
   { id: 3, src: 'sheet-3.jpg', name: 'Cozy Country House', rooms: 4, price: '$850,000' },
@@ -13,4 +13,4 @@ const homesData = [
   { id: 12, src: 'sheet-6.jpg', name: 'Modern Family Apartment', rooms: 3, price: '$600,' },
 ];
 
-export default homesData;
+export default cardsData;

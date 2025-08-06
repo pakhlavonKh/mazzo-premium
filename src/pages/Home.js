@@ -4,24 +4,25 @@ import Sidebar from '../components/Sidebar';
 import Carousel from '../components/Carousel';
 import Features from '../components/Features';
 import Story from '../components/Story';
-import Homes from '../components/Cards';
+import Cards from '../components/Cards';
 import Gallery from '../components/Gallery';
 import Footer from '../components/Footer';
-import homesData from '../data/homesData';
+import cardsData from '../data/cardsData';
 
 function Home() {
+  const cardsRef = React.useRef(null);
 
-  const scrollToHomes = () => {
-    homesData.current?.scrollIntoView({ behavior: 'smooth' });
+  const scrollToCards = () => {
+    cardsRef.current?.scrollIntoView({ behavior: 'smooth' });
   };
   return (
     <div className="container">
       <Sidebar />
       <Header />
-      <Carousel onImageClick={scrollToHomes} />
+      <Carousel onImageClick={scrollToCards} />
       <Features />
       <Story />
-      <Homes homes={homesData.slice(0, 3)}/>
+      <Cards homes={cardsData.slice(0, 3)} ref={cardsRef}/>
       <Gallery />
       <Footer />
     </div>

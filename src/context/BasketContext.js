@@ -27,7 +27,7 @@ export const BasketProvider = ({ children }) => {
 
   const showToast = (message) => {
     setToast(message);
-    setTimeout(() => setToast(null), 2500); // Auto-hide after 2.5s
+    setTimeout(() => setToast(null), 2500); 
   };
 
   return (

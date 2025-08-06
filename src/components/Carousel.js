@@ -98,7 +98,7 @@ function Carousel({ onImageClick }) {
               key={index}
               ref={index === 0 ? itemRef : null}
               src={src}
-              alt={`${index + 1}`}
+              alt={`Carousel item ${index + 1}`}
               className="preview__item"
               onClick={onImageClick}
               onLoad={handleImageLoad}
